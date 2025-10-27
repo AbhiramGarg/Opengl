@@ -13,7 +13,6 @@ All projects in this repository rely on the following foundational technologies:
 * **Window Management:** **GLFW**
 * **Math Library:** **GLM (OpenGL Mathematics)**
 * **Shaders:** GLSL (OpenGL Shading Language)
-* **Asset Loading:** `stb_image.h` (for image loading)
 
 ---
 
