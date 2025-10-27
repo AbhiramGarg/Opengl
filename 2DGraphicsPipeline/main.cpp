@@ -89,7 +89,7 @@ GLuint CreateShaderProgram(const std::string& vertexshadersource, const std::str
     }
     // ---------------------------
 
-    glValidateProgram(programObj); // Good practice, but linking is more likely to fail
+    glValidateProgram(programObj); 
 
     // Clean up shaders after linking them to the program
     glDeleteShader(myVertexShader);
@@ -100,8 +100,8 @@ GLuint CreateShaderProgram(const std::string& vertexshadersource, const std::str
 
 void CreateGraphicsPipeline() 
 {
-    std::string vertexShaderSource = LoadShaderAsString("../shaders/vert.glsl");
-    std::string fragmentShaderSource = LoadShaderAsString("../shaders/frag.glsl");
+    std::string vertexShaderSource = LoadShaderAsString("./shaders/vert.glsl");
+    std::string fragmentShaderSource = LoadShaderAsString("./shaders/frag.glsl");
     
     gGraphicsPipelineShaderProgram = CreateShaderProgram(vertexShaderSource, fragmentShaderSource);
 }
@@ -163,7 +163,7 @@ void InitializeProgram() {
         exit(1);
     }
 
-    // Now that the context is created and GLEW is initialized, get the OpenGL version info
+    // Context created and GLEW is initialized
     GetopenGLversionInfo();
 
 }
