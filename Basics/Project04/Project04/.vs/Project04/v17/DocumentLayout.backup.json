@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GraphicsAPI\\OpenGL\\Project04\\Project04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFBA1C39-7766-47F1-8911-E276C9C89368}|Project04.vcxproj|E:\\GraphicsAPI\\OpenGL\\Project04\\Project04\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AFBA1C39-7766-47F1-8911-E276C9C89368}|Project04.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFBA1C39-7766-47F1-8911-E276C9C89368}|Project04.vcxproj|E:\\GraphicsAPI\\OpenGL\\Project04\\Project04\\vert.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AFBA1C39-7766-47F1-8911-E276C9C89368}|Project04.vcxproj|solutionrelative:vert.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFBA1C39-7766-47F1-8911-E276C9C89368}|Project04.vcxproj|E:\\GraphicsAPI\\OpenGL\\Project04\\Project04\\frag.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AFBA1C39-7766-47F1-8911-E276C9C89368}|Project04.vcxproj|solutionrelative:frag.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frag.glsl",
+              "DocumentMoniker": "E:\\GraphicsAPI\\OpenGL\\Project04\\Project04\\frag.glsl",
+              "RelativeDocumentMoniker": "frag.glsl",
+              "ToolTip": "E:\\GraphicsAPI\\OpenGL\\Project04\\Project04\\frag.glsl",
+              "RelativeToolTip": "frag.glsl",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-12T05:55:18.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\GraphicsAPI\\OpenGL\\Project04\\Project04\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "E:\\GraphicsAPI\\OpenGL\\Project04\\Project04\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAhwKkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-12T05:48:28.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vert.glsl",
+              "DocumentMoniker": "E:\\GraphicsAPI\\OpenGL\\Project04\\Project04\\vert.glsl",
+              "RelativeDocumentMoniker": "vert.glsl",
+              "ToolTip": "E:\\GraphicsAPI\\OpenGL\\Project04\\Project04\\vert.glsl",
+              "RelativeToolTip": "vert.glsl",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-12T05:41:02.776Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
